@@ -1,0 +1,14 @@
+Partlist
+
+Exported from rbbb.brd at 7/10/13 9:40 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value              Package             Library                    Position (inch)       Orientation
+
+C1       47µF               CAP-PTH-SMALL       SparkFun-Capacitors        (3 0.1)               R0
+C2       47µF               CAP-PTH-SMALL       SparkFun-Capacitors        (2.85 0.25)           R0
+R1       1K                 AXIAL-0.4           SparkFun-Resistors         (2.25 0.5)            R90
+U1       ATMEGA328P_PDIP    DIL28-3             SparkFun-DigitalIC         (1.35 0.5)            R0
